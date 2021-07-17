@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/brigida/.dotnet/store/|arch|/|tfm|",
+      "/Users/brigida/.nuget/packages"
+    ]
+  }
+}
